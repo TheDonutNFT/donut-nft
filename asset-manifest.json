@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/donut-nft/static/css/main.6ec95104.chunk.css",
+    "main.js": "/donut-nft/static/js/main.1f582985.chunk.js",
+    "main.js.map": "/donut-nft/static/js/main.1f582985.chunk.js.map",
+    "runtime-main.js": "/donut-nft/static/js/runtime-main.b6b13d82.js",
+    "runtime-main.js.map": "/donut-nft/static/js/runtime-main.b6b13d82.js.map",
+    "static/js/2.88ab80c9.chunk.js": "/donut-nft/static/js/2.88ab80c9.chunk.js",
+    "static/js/2.88ab80c9.chunk.js.map": "/donut-nft/static/js/2.88ab80c9.chunk.js.map",
+    "static/js/3.442bd86f.chunk.js": "/donut-nft/static/js/3.442bd86f.chunk.js",
+    "static/js/3.442bd86f.chunk.js.map": "/donut-nft/static/js/3.442bd86f.chunk.js.map",
+    "index.html": "/donut-nft/index.html",
+    "static/css/main.6ec95104.chunk.css.map": "/donut-nft/static/css/main.6ec95104.chunk.css.map",
+    "static/js/2.88ab80c9.chunk.js.LICENSE.txt": "/donut-nft/static/js/2.88ab80c9.chunk.js.LICENSE.txt",
+    "static/media/1.a55154cd.jpg": "/donut-nft/static/media/1.a55154cd.jpg",
+    "static/media/2.5894c2b6.jpg": "/donut-nft/static/media/2.5894c2b6.jpg",
+    "static/media/3.576b4bb4.jpg": "/donut-nft/static/media/3.576b4bb4.jpg",
+    "static/media/4.42a6ac99.jpg": "/donut-nft/static/media/4.42a6ac99.jpg",
+    "static/media/4x5.fecb1e4e.jpg": "/donut-nft/static/media/4x5.fecb1e4e.jpg",
+    "static/media/5.08d45adb.jpg": "/donut-nft/static/media/5.08d45adb.jpg",
+    "static/media/header1000x1000.b856cd88.png": "/donut-nft/static/media/header1000x1000.b856cd88.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b13d82.js",
+    "static/js/2.88ab80c9.chunk.js",
+    "static/css/main.6ec95104.chunk.css",
+    "static/js/main.1f582985.chunk.js"
+  ]
+}
