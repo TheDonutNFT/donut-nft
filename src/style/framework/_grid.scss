@@ -1,0 +1,19 @@
+
+/* Grids */
+.grid-container {
+    display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: .25em;
+      width: 100%;
+      margin: 0 auto;
+      height: inherit;
+} 
+
+.icon-grid-container {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+  

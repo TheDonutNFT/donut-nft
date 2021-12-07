@@ -1,0 +1,52 @@
+nav ul li {
+    margin: auto;
+    a   {
+        user-select: none;
+        margin: auto;
+        height: 100%;
+    }
+    a:hover{
+        cursor: pointer;
+        color: $pink;
+    }
+}
+
+header{
+    height: $nav-height;
+    width: $nav-width;
+}
+
+  
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    flex-wrap: wrap;
+    text-align: right;
+}
+  
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: auto;
+    transition: 0.3s ease-in-out;
+    font-weight: $bold;
+    color: $white;
+}
+  
+nav{
+
+    height: 3.5em;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    background-color: $dark-blue;
+    img{
+        height: 36px;
+    }
+    z-index:99;
+    backdrop-filter: blur(10px);
+    background: rgba(89, 2, 100, 0.1);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+}

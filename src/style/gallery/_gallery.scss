@@ -1,0 +1,21 @@
+
+  .gallery-collection{
+    display: flex;
+    > * {
+      margin-right: 1rem;
+    }
+    >:last-child{
+      margin-right: 0;
+    }
+  }
+
+
+.img-contain img {
+    object-fit: cover;
+    width: 100%;
+    transition-duration: .4s;
+    position: relative;
+    overflow: hidden;
+    vertical-align: top;
+    z-index: 1;
+}

@@ -1,0 +1,58 @@
+section{
+    height: auto;
+    padding-bottom: $section-padding;
+}
+  
+.road-map-stage{
+    margin-bottom: $margin;
+}
+  
+.intro-wrapper > *{
+    margin-top: $section-padding;
+}
+
+.margin-top {
+    margin-top: $margin;
+}
+
+.section-header{
+    font-weight: bold;
+    padding: $section-header-padding;
+}
+  
+.section-lead{
+    font-weight: bold;
+    padding-top: $section-lead-padding;
+    padding-bottom: $section-lead-padding;
+}
+
+.social-cta{
+    margin-bottom: 2rem;
+  }
+
+.indent{
+    padding-left: 1rem;
+}
+
+.section-underline {
+    text-decoration: none;
+    color: $grey;
+    background-image: linear-gradient(90deg, red, blue);
+    background-repeat: no-repeat;
+    background-size: auto .1rem;
+    background-position: bottom;
+    transition: ease-in-out .3s;
+}
+  
+.section-underline:hover{
+    color: $white;
+    background-size: auto 100%;
+}
+
+.section-underline {
+    margin-bottom: 2rem;
+}
+
+.lead{
+    margin-bottom: $margin;
+}

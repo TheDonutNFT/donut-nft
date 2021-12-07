@@ -1,0 +1,25 @@
+#typographic-icon:hover{
+    color: $pink;
+    cursor: pointer;
+}
+
+
+.small-cta-group{
+    ul{
+      #icon-container a{
+        margin-right: .5rem;
+      }
+    }
+}
+
+a {
+    text-decoration: none;
+    color: $grey;
+    transition: 0.3s ease-in-out;
+        &:active{
+            color: $pink;
+        }
+        &:hover{
+            cursor: pointer;
+        }
+}

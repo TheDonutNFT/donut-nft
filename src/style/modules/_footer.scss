@@ -1,0 +1,49 @@
+footer{
+    height: fit-content;
+    background-color: $black;   
+}
+
+#copyright{
+    opacity: 0.5;
+    text-align: center;
+    padding-bottom: .75rem;
+    font-size: $copyright-font-sz;
+    color: $white;
+}
+
+
+  
+#contact a {
+    margin: 10px;
+  }
+  
+  #contact {
+    color: $white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
+  
+  #icon {
+    background-color: $pink;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #icon-container {
+    display: flex;
+  }
+  
+  #icon:hover {
+    transform: translateY(-3px);
+  }
+  
+  #contact p {
+    font-size: 14px;
+  }

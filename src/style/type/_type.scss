@@ -1,0 +1,61 @@
+#typographic-icon{
+    font-family: 'Chango', cursive;
+}
+
+h1{
+    font-family: 'Chango', cursive;
+    color: $white;
+    margin-left: -.4rem;
+}
+
+.intro-wrapper h2{
+    font-size: $h2-lead-sz;
+}
+  
+h2{
+    font-size: $h2-font-sz;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: $p-font-sz;
+}
+
+.highlight{
+    color: $pink;
+}
+
+.lead{
+    font-size: $lead-font-sz;
+}
+
+.intro-wrapper {
+    .primary-cta a:hover{
+        color: $white;
+    }
+    margin-bottom: $section-padding;
+    img{
+        margin-top: 0;
+    }
+}
+
+p {
+    letter-spacing: $p-letter-spacing;
+}
+
+.section-header{
+    font-weight: bold;
+}
+  
+.section-lead{
+    font-weight: bold;
+}
+
+
+h3{
+    font-size: $h3-font-sz;
+    margin-bottom: .5rem;
+}
